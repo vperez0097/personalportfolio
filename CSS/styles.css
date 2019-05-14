@@ -2,9 +2,32 @@
     background-color: gainsboro;
 }
      
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-     }
+.logo {
+  display: flex;
+  margin-left:auto;
+  margin-right:auto;
+  width: 0%;
+}
+
+nav {
+    text-align: center    
+}
+
+nav {
+  font-size: 32px;
+}
+
+nav {
+  font-family: "Georgia", Georgia, serif;
+}
+
+nav {
+  font-style: normal;
+}
+
+a {
+  color: black;
+}
+a {
+  text-decoration: none;
+}
