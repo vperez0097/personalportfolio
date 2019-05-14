@@ -1,19 +1,2 @@
  body {
-    background-color: pink;
-}
-
- nav {
-    text-align: center
-}
- img {
-    text-align: center;  
-}
- h1 {
-    text-align: center;
-}
-
- h1 {
-    border-width: 1px;
-    border-style: solid;
-    border-color: black;
-}
+    background-color: gainsboro;
