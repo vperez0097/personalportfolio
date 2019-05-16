@@ -6,7 +6,7 @@ body {
 }
      
 .logo {
-    position: absolute;
+  position: absolute;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -20,6 +20,7 @@ nav {
     font-family: "Georgia", Georgia, serif;
     font-style: normal;
     z-index: 1;
+    position:sticky
 }
 
 
@@ -37,18 +38,3 @@ p {
   text-align: center;
 }
 
-.wrapper {
-  display: grid;
-  grid-template-columns: 100px 100px 100px;
-  grid-gap: 10px;
-  background-color: #fff;
-  color: #444;
-}
-
-.box {
-  background-color: #444;
-  color: #fff;
-  border-radius: 5px;
-  padding: 20px;
-  font-size: 150%;
-}
