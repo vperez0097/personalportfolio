@@ -2,7 +2,8 @@
 /*This is CSS for the entire web page*/
 
 body {
-    background-color: gainsboro;    
+    background-color: gainsboro;
+    
 }
      
 .logo {
@@ -15,8 +16,8 @@ body {
 }
 
 nav {
-    text-align: center;   
-    font-size: 32px;
+    text-align:center;   
+    font-size: 60px;
     font-family: "Georgia", Georgia, serif;
     font-style: normal;
     z-index: 1;
@@ -31,7 +32,9 @@ a {
 
 
 h1 {
-  text-align:center;
+  text-align:center left;
+    font-size: 75
+    
 }
 
 p {
