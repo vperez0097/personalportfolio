@@ -80,18 +80,27 @@ margin-left: auto;
 margin-right: auto;
 margin-top: 0px;
 margin: 15px 25px 0px 0px;
+width: 899px;
+height:auto;
+margin: auto;
+
 }
+
 .resume
 img:hover {
     opacity: .5; 
     transition: 1s; 
+   
     
 }
 
 .wallows {
-display:inline;
+display:inline-block;
 margin-left: auto;
 margin-right: auto;
 margin-top: 0px;
-margin: 15px 25px 0px 0px;
+margin: 15px -200px -100px 200px;
+
 }
+
+
