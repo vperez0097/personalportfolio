@@ -1,43 +1,62 @@
  
 /*This is CSS for the entire web page*/
-
-body {
-    background-color: gainsboro;
+body, h1, h2, h3, h4, h5, h6 {
+margin: 0;
+padding: 0;
     
 }
-     
-.logo {
-  position: absolute;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-    z-index: 1
+
+body{
+    font-family: "Georgia", "Arial"
+    background color:#DADBDE
 }
 
-nav {
-    text-align:center;   
-    font-size: 60px;
-    font-family: "Georgia", Georgia, serif;
-    font-style: normal;
-    z-index: 1;
-    position:sticky
+a{
+    text-decoration: none;
 }
 
-
-a {
-  color: black;
-   text-decoration: none;
+li{
+    display: inline;
+    list-style: none; 
 }
 
+.logo{
+width: 150px;
+margin-top: 0px;
+}
 
 h1 {
-  text-align:center left;
-    font-size: 75
+width: 1050px;
+height:auto;
+margin: auto;
+font-size: 100px;
+margin-top: 100px;
+}
+
+p{
+ width: 1050px;
+height:auto;
+margin: auto;
+margin-top: 0px;
+font-size: 20px
+}
+
+.container {
+ width: 899px;
+height:auto;
+margin: auto;
+}
+
+img{
+display:inline;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0px;
+margin: 15px 25px 0px 0px;
+}
+
+img:hover {
+    opacity: .5; 
+    transition: 1s; 
     
 }
-
-p {
-  text-align: center;
-}
-
