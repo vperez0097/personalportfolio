@@ -99,8 +99,17 @@ display:inline-block;
 margin-left: auto;
 margin-right: auto;
 margin-top: 0px;
-margin: 15px -200px -100px 200px;
+margin: 0px -200px 0px 200px;
 
 }
+
+.resumetitle{
+width: 1050px;
+height:auto;
+margin: auto;
+font-size: 45px;
+margin-top: 25px;
+}
+
 
 
