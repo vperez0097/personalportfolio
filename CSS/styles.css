@@ -26,6 +26,12 @@ margin-top: 0px;
 }
 
 
+.logo
+img:hover {
+    opacity: .5; 
+    transition: 1s; 
+    
+}
 .greeting{
 width: 1050px;
 height:auto;
@@ -43,10 +49,20 @@ font-size: 20px
 }
  
 .container {
- width: 899px;
+width: 899px;
 height:auto;
 margin: auto;
+
 }
+
+
+.container
+img:hover {
+    opacity: .5; 
+    transition: 1s; 
+    
+}
+
 
 img{
 display:inline;
@@ -56,17 +72,26 @@ margin-top: 0px;
 margin: 15px 25px 0px 0px;
 }
 
+
+
+.resume{
+display:inline;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0px;
+margin: 15px 25px 0px 0px;
+}
+.resume
 img:hover {
     opacity: .5; 
     transition: 1s; 
     
 }
 
-
-.resume{
- width: 105px;
-height:auto;
-margin: auto;
-font-size: 100px;
-margin-top: 40px;
+.wallows {
+display:inline;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0px;
+margin: 15px 25px 0px 0px;
 }
