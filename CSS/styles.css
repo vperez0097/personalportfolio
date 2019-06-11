@@ -120,7 +120,19 @@ margin: 15px 10px 0px 100px;
 }
 
 
+.workcontent {
+width: 1050px;
+height:auto;
+margin: auto;
+margin-top: 0px;
+font-size: 15px
+}
 
+.workcontent 
+    img:hover {
+    opacity: .5; 
+    transition: 1s; 
+}
 /* Contact Form*/
 input[type=text], select, textarea {
   width: 100%; 
